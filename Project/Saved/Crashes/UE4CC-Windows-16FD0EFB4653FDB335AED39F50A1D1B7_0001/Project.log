@@ -1,0 +1,1263 @@
+﻿Log file open, 10/03/20 14:48:52
+LogInit: Display: Running engine for game: Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.230568
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.03-18.48.53:267][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:267][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:275][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.03-18.48.53:276][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.03-18.48.53:277][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.03-18.48.53:277][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.03-18.48.53:277][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.03-18.48.53:277][  0]LogHAL: Display: Platform has ~ 16 GB [17048965120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.03-18.48.53:277][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.03-18.48.53:277][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.03-18.48.53:278][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Scalability.ini]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.03-18.48.53:279][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.03-18.48.53:280][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.03-18.48.53:280][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.03-18.48.53:280][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.03-18.48.53:280][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Config/Windows/Engine.ini]
+[2020.10.03-18.48.53:280][  0]LogInit: Computer: LAPTOP-IKJ0O4F0
+[2020.10.03-18.48.53:280][  0]LogInit: User: Thomas
+[2020.10.03-18.48.53:280][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.03-18.48.53:280][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.03-18.48.53:280][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.03-18.48.53:280][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.03-18.48.53:280][  0]LogMemory: Process Physical Memory: 113.29 MB used, 113.30 MB peak
+[2020.10.03-18.48.53:280][  0]LogMemory: Process Virtual Memory: 96.18 MB used, 96.18 MB peak
+[2020.10.03-18.48.53:280][  0]LogMemory: Physical Memory: 9743.88 MB used,  6515.28 MB free, 16259.16 MB total
+[2020.10.03-18.48.53:280][  0]LogMemory: Virtual Memory: 5143.14 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.10.03-18.48.53:288][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.03-18.48.53:343][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.03-18.48.53:344][  0]LogInit: Using OS detected language (en-US).
+[2020.10.03-18.48.53:344][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.03-18.48.53:346][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.03-18.48.53:583][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.03-18.48.53:660][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.03-18.48.53:660][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.03-18.48.53:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.03-18.48.53:847][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.03-18.48.53:847][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.03-18.48.53:847][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.03-18.48.53:923][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.10.03-18.48.53:923][  0]LogD3D11RHI:       4021/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.03-18.48.53:939][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.10.03-18.48.53:939][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.03-18.48.53:942][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.03-18.48.53:942][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.03-18.48.53:942][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.03-18.48.53:996][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.03-18.48.53:996][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.10.03-18.48.53:996][  0]LogWindows: EnumDisplayDevices:
+[2020.10.03-18.48.53:996][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.10.03-18.48.53:997][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.10.03-18.48.53:997][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.03-18.48.53:997][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.03-18.48.53:997][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.10.03-18.48.53:997][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.03-18.48.53:998][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.03-18.48.53:998][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.10.03-18.48.54:055][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.03-18.48.54:057][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.03-18.48.54:057][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.03-18.48.54:057][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.03-18.48.54:078][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.03-18.48.54:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.03-18.48.54:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.03-18.48.54:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.03-18.48.54:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.03-18.48.54:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.03-18.48.54:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.03-18.48.54:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.03-18.48.54:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.03-18.48.54:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.03-18.48.54:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.03-18.48.54:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.03-18.48.54:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.03-18.48.54:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.03-18.48.54:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.03-18.48.54:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.03-18.48.54:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.03-18.48.54:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.03-18.48.54:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.03-18.48.54:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.03-18.48.54:730][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.03-18.48.54:744][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.03-18.48.54:824][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Intermediate/Shaders/WorkingDirectory/42620/).
+[2020.10.03-18.48.54:825][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thomas/AppData/Local/Temp/UnrealShaderWorkingDir/4DAEA5074EDA200F23A7B4879009906F/'.
+[2020.10.03-18.48.54:825][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.03-18.48.54:825][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.03-18.48.54:825][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.03-18.48.55:762][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.03-18.48.55:821][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.03-18.48.55:821][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thomas/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.03-18.48.55:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.03-18.48.55:821][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.03-18.48.55:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.03-18.48.55:821][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.03-18.48.55:833][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.03-18.48.55:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.03-18.48.55:833][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.03-18.48.55:834][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.03-18.48.55:834][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.03-18.48.55:834][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.03-18.48.55:901][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.03-18.48.55:901][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.03-18.48.55:929][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.10.03-18.48.56:253][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.03-18.48.56:390][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.03-18.48.56:390][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.03-18.48.56:390][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.03-18.48.56:390][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.03-18.48.56:390][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.03-18.48.56:411][  0]LogNetVersion: Project 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 289691133)
+[2020.10.03-18.48.56:907][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001CFD7F21BC0), frame # 0
+[2020.10.03-18.48.56:907][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CFD7E5EAC0), frame # 0
+[2020.10.03-18.48.56:908][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CFD7ED4A00), frame # 0
+[2020.10.03-18.48.56:985][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.069690 seconds
+[2020.10.03-18.48.56:991][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.03-18.48.56:991][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.03-18.48.56:991][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.03-18.48.57:410][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.03-18.48.57:416][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.03-18.48.57:515][  0]SourceControl: Source control is disabled
+[2020.10.03-18.48.57:516][  0]SourceControl: Source control is disabled
+[2020.10.03-18.48.57:520][  0]SourceControl: Source control is disabled
+[2020.10.03-18.48.57:523][  0]SourceControl: Source control is disabled
+[2020.10.03-18.48.57:532][  0]SourceControl: Source control is disabled
+[2020.10.03-18.48.57:844][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.03-18.48.57:873][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.03-18.48.57:873][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.03-18.48.57:934][  0]LogOcInput: OculusInput pre-init called
+[2020.10.03-18.48.57:950][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.03-18.48.57:951][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.03-18.48.58:027][  0]LogEngine: Initializing Engine...
+[2020.10.03-18.48.58:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.03-18.48.58:029][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.03-18.48.58:030][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.03-18.48.58:161][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.03-18.48.58:171][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.03-18.48.58:171][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CFDD58BC00), frame # 0
+[2020.10.03-18.48.58:171][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CFDD587B00), frame # 0
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.03-18.48.58:179][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.03-18.48.58:179][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.03-18.48.58:179][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.03-18.48.58:202][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.03-18.48.58:202][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.03-18.48.58:252][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.10.03-18.48.58:254][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.03-18.48.58:257][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.03-18.48.58:257][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.03-18.48.58:259][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.03-18.48.58:260][  0]LogInit: FAudioDevice initialized.
+[2020.10.03-18.48.58:260][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.03-18.48.58:434][  0]LogDerivedDataCache: Saved boot cache 0.17s 75MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.03-18.48.58:438][  0]LogInit: Texture streaming: Enabled
+[2020.10.03-18.48.58:457][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.03-18.48.58:457][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.03-18.48.58:460][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.03-18.48.58:528][  0]LogInit: Transaction tracking system initialized
+[2020.10.03-18.48.58:556][  0]BlueprintLog: New page: Editor Load
+[2020.10.03-18.48.58:651][  0]LocalizationService: Localization service is disabled
+[2020.10.03-18.48.59:844][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.03-18.48.59:844][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.03-18.49.00:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/' took 0.01s
+[2020.10.03-18.49.00:250][  0]SourceControl: Source control is disabled
+[2020.10.03-18.49.00:250][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.826
+[2020.10.03-18.49.00:250][  0]Cmd: MAP LOAD FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.03-18.49.00:250][  0]LightingResults: New page: Lighting Build
+[2020.10.03-18.49.00:251][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.03-18.49.00:251][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.03-18.49.00:251][  0]MapCheck: New page: Map Check
+[2020.10.03-18.49.00:251][  0]LightingResults: New page: Lighting Build
+[2020.10.03-18.49.00:262][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001CFDD58BC00), frame # 0
+[2020.10.03-18.49.00:262][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001CFDD587B00), frame # 0
+[2020.10.03-18.49.00:262][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.03-18.49.00:616][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.10.03-18.49.00:616][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001CFCC823E00), frame # 0
+[2020.10.03-18.49.00:616][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001CFCBEA9440), frame # 0
+[2020.10.03-18.49.00:690][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.03-18.49.00:712][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.03-18.49.00:712][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.03-18.49.00:713][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.10.03-18.49.00:713][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.462
+[2020.10.03-18.49.00:714][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.291
+[2020.10.03-18.49.00:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-18.49.00:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-18.49.00:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-18.49.00:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.03-18.49.00:972][  0]LogCollectionManager: Loaded 0 collections in 0.000843 seconds
+[2020.10.03-18.49.00:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Collections/' took 0.00s
+[2020.10.03-18.49.00:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/Developers/Thomas/Collections/' took 0.00s
+[2020.10.03-18.49.00:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/Collections/' took 0.00s
+[2020.10.03-18.49.00:986][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3427 classes and 821 folders.
+[2020.10.03-18.49.00:988][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.03-18.49.01:032][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.03-18.49.01:033][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.10.03-18.49.01:086][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.03-18.49.01:088][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.03-18.49.01:097][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.03-18.49.01:192][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.10.03-18.49.01:308][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.10.03-18.49.01:308][  0]LogLoad: (Engine Initialization) Total time: 9.88 seconds
+[2020.10.03-18.49.01:308][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.03-18.49.01:375][  0]LogAssetRegistry: Asset discovery search completed in 5.4469 seconds
+[2020.10.03-18.49.01:381][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.03-18.49.01:395][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.03-18.49.01:409][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.03-18.49.53:791][135]MapCheck: New page: Map Check
+[2020.10.03-18.49.53:815][135]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.03-18.49.53:815][135]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.03-18.49.53:825][135]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.10.03-18.49.53:842][135]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.10.03-18.49.53:842][135]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.10.03-18.49.53:842][135]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.10.03-18.49.53:854][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.10.03-18.49.53:862][135]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.03-18.49.53:869][135]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.03-18.49.54:449][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.10.03-18.49.54:449][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.03-18.49.54:449][135]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.10.03-18.49.54:449][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.10.03-18.49.54:449][135]TextureStreamingBuild: Display: Compiling optional shaders took 0.593 seconds.
+[2020.10.03-18.49.54:451][135]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2020.10.03-18.49.54:452][135]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2020.10.03-18.49.54:460][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.10.03-18.49.54:464][135]LightingResults: New page: Lighting Build - Oct 3, 2020, 10:49:54 AM
+[2020.10.03-18.49.54:531][135]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.03-18.49.54:636][135]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.03-18.49.54:654][135]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.03-18.49.55:166][135]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.03-18.49.55:166][135]LogSwarmInterface: [TryOpenConnection] Local Process ID is 42620
+[2020.10.03-18.49.57:853][135]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.03-18.49.57:853][135]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.03-18.49.57:853][135]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.03-18.49.57:853][135]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.03-18.49.57:853][135]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.03-18.49.58:098][135]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.03-18.49.58:099][135]MapCheck: New page: TopDownExampleMap - Oct 3, 2020, 10:49:58 AM
+[2020.10.03-18.49.58:099][135]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.397ms to complete.
+[2020.10.03-18.49.58:101][135]LogEditorBuildUtils: Build time 0:04
+[2020.10.03-18.49.58:294][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.03-18.50.57:097][612]Job is a success!
+[2020.10.03-18.50.57:162][614]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.03-18.50.57:997][614]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.629s
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:      Indirection Texture 80x80x16 = 0.4Mb
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:      BrickData (all levels) 22.5Mb
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:      Bricks at depth
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:          1: 6.4% covering 18.1% of volume
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:          2: 93.1% covering 4.1% of volume
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:      Bricks in each level
+[2020.10.03-18.50.57:998][614]LogVolumetricLightmapImport:          TopDownExampleMap 			 4539 bricks 	 100.0% (Persistent Level)
+[2020.10.03-18.50.58:581][614]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:581][614]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:581][614]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:582][614]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 256X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 128X64)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 128X128)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 64X32)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 64X64)
+[2020.10.03-18.50.58:583][614]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 64X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2020.10.03-18.50.58:928][614]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 32X32)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 128X64)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X64)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X64)
+[2020.10.03-18.50.58:929][614]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2020.10.03-18.50.58:929][614]Lightmass on LAPTOP-IKJ0O4F0: 59.3 sec total, 534 ms importing, 310 ms setup, 6.13 sec photons, 52.2 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 6:06 min total, 33.3 sec processing.
+[2020.10.03-18.50.58:929][614]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 65 meshes in 23 LightmapResourceClusters (2.8 Meshes per cluster).
+[2020.10.03-18.50.59:036][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.03-18.50.59:054][614]LogStaticLightingSystem: Illumination: 1:04 min (487 ms encoding lightmaps, 283 ms encoding shadowmaps)
+[2020.10.03-18.50.59:054][614]LogStaticLightingSystem: Lightmap texture memory:  3.2 MB (3.2 MB streaming, 0.0 MB non-streaming), 46 textures
+[2020.10.03-18.50.59:054][614]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 23 textures
+[2020.10.03-18.51.03:916][614]DumpUnbuiltLightIteractions
+[2020.10.03-18.51.03:916][614]Lights with unbuilt interactions: 0
+[2020.10.03-18.51.03:916][614]
+[2020.10.03-18.51.03:916][614]Primitives with unbuilt interactions: 0
+[2020.10.03-18.51.04:040][615]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.03-18.51.04:040][615]MapCheck: New page: TopDownExampleMap - Oct 3, 2020, 10:51:04 AM
+[2020.10.03-18.51.04:040][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.291ms to complete.
+[2020.10.03-18.52.20:752][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.10.03-18.52.20:855][573]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownExampleMap78A7B17648CA0628AC2A5297B91AA5DE.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.10.03-18.52.21:036][573]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownExampleMap_BuiltData3BA1024D4E5BD0336982848ABA9BE4AA.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.03-18.52.21:052][573]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.52.21:052][573]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.03-18.52.21:052][573]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.TopDownCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.SKEL_TopDownCharacter_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.TopDownCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:110][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownCharacter.TopDownCharacter_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownCharacter.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.TopDownController_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.SKEL_TopDownController_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.SKEL_TopDownController_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.SKEL_TopDownController_C:MoveToHitLocation' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.SKEL_TopDownController_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.TopDownController_C:ReceiveTick' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:115][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownController.TopDownController_C:MoveToHitLocation' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.52.56:120][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownGameMode.TopDownGameMode_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.10.03-18.52.56:120][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownGameMode.SKEL_TopDownGameMode_C:UserConstructionScript' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.10.03-18.52.56:120][980]LogMetaData: Removing '/Game/RTS/Blueprints/TopDownGameMode.SKEL_TopDownGameMode_C' ref from Metadata '/Game/TopDownBP/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.10.03-18.52.56:472][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.03-18.52.56:474][980]LogMetaData: Removing '/Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap_C' ref from Metadata '/Game/TopDownBP/Maps/TopDownExampleMap.PackageMetaData'
+[2020.10.03-18.52.56:474][980]LogMetaData: Removing '/Game/RTS/Maps/TopDownExampleMap.SKEL_TopDownExampleMap_C' ref from Metadata '/Game/TopDownBP/Maps/TopDownExampleMap.PackageMetaData'
+[2020.10.03-18.52.56:483][980]LogMetaData: Removing '/Game/RTS/TopDownOverview.TopDownOverview_C' ref from Metadata '/Game/TopDownBP/TopDownOverview.PackageMetaData'
+[2020.10.03-18.52.56:484][980]LogMetaData: Removing '/Game/RTS/TopDownOverview.SKEL_TopDownOverview_C' ref from Metadata '/Game/TopDownBP/TopDownOverview.PackageMetaData'
+[2020.10.03-18.52.56:533][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.03-18.52.56:683][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownExampleMap_BuiltDataC572999A4E40506BAE6383906B7AD20F.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.03-18.52.56:713][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/M_Cursor_Decal" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/M_Cursor_Decal.uasset" SILENT=true
+[2020.10.03-18.52.56:732][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/M_Cursor_Decal3B64DC334CD9B1F9251A2D90312D7177.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/M_Cursor_Decal.uasset'
+[2020.10.03-18.52.56:761][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/TopDownCharacter" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2020.10.03-18.52.56:796][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownCharacter15DEA0E54E423D72EDB4AE837810FC7A.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownCharacter.uasset'
+[2020.10.03-18.52.56:799][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/TopDownController" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownController.uasset" SILENT=true
+[2020.10.03-18.52.56:828][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownController18E446A445B058F4E0424D8194A073EB.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownController.uasset'
+[2020.10.03-18.52.56:831][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/TopDownGameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.10.03-18.52.56:843][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownGameModeAAEF3C5848464644D9774181922A4F54.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownGameMode.uasset'
+[2020.10.03-18.52.56:859][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.03-18.52.56:976][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownExampleMap3C2A08E445B865B7E77DB3A898667A40.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/TopDownExampleMap.umap'
+[2020.10.03-18.52.57:005][980]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.159
+[2020.10.03-18.52.57:006][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/TopDownOverview" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/TopDownOverview.uasset" SILENT=true
+[2020.10.03-18.52.57:020][980]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownOverview6EE1EB83400B514584DDFBB87563AE48.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/TopDownOverview.uasset'
+[2020.10.03-18.52.57:372][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.10.03-18.52.57:382][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.03-18.52.57:392][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.03-18.52.57:402][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.03-18.52.57:412][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.03-18.52.57:422][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.10.03-18.52.57:431][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.10.03-18.52.57:453][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.03-18.52.57:463][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.03-18.52.57:533][980]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating Material /Game/RTS/Blueprints/M_Cursor_Decal.M_Cursor_Decal
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/TopDownController.TopDownController
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating World /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.03-18.52.57:533][980]LogContentValidation: Display: Validating Blueprint /Game/RTS/TopDownOverview.TopDownOverview
+[2020.10.03-18.53.05:772][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.03-18.53.05:887][463]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownExampleMapDB9AF5804DC9D67EB54850847A63FB7D.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/TopDownExampleMap.umap'
+[2020.10.03-18.53.05:917][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/TopDownExampleMap_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2020.10.03-18.53.06:093][463]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownExampleMap_BuiltData764C004C4037369D348752806C3351CF.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.10.03-18.53.06:111][463]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.53.06:111][463]LogContentValidation: Display: Validating World /Game/RTS/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.10.03-18.53.06:111][463]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.10.03-18.53.29:757][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.03-18.53.32:581][873]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.03-18.53.32:729][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.10.03-18.53.32:750][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.03-18.53.32:761][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.03-18.53.51:753][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.03-18.53.51:755][952]LogMetaData: Removing '/Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map_C' ref from Metadata '/Game/RTS/Maps/TopDownExampleMap.PackageMetaData'
+[2020.10.03-18.53.51:755][952]LogMetaData: Removing '/Game/RTS/Maps/RTS_Test_Map.SKEL_RTS_Test_Map_C' ref from Metadata '/Game/RTS/Maps/TopDownExampleMap.PackageMetaData'
+[2020.10.03-18.53.51:799][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-18.53.51:948][952]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltData6B918A604F4152CFEA991A8D1BF7D9A1.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-18.53.51:951][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-18.53.51:963][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.10.03-18.53.52:073][952]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_MapA92DD37F40CE84347A46A8946B445827.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-18.53.52:106][952]LogFileHelpers: Saving map 'RTS_Test_Map' took 0.154
+[2020.10.03-18.53.52:268][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.03-18.53.52:278][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.10.03-18.53.52:298][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.03-18.53.52:309][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.10.03-18.53.52:367][952]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.53.52:368][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-18.53.52:368][952]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-18.55.03:538][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-18.55.03:549][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.10.03-18.55.03:658][322]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map1133410048F8CC71FC03E580963F9CB5.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-18.55.03:687][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-18.55.03:852][322]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltData272F0513469669831EBC3481F960592F.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-18.55.03:876][322]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.55.03:877][322]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-18.55.03:877][322]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-18.55.06:024][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RTS/Blueprints/TopDownController.TopDownController
+[2020.10.03-18.55.07:300][445]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.10.03-18.55.08:740][445]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.03-18.55.11:977][573]LogSlate: Window 'TopDownController' being destroyed
+[2020.10.03-18.55.13:075][638]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.03-18.57.56:975][919]BlueprintLog: New page: Compile TopDownController
+[2020.10.03-18.57.56:979][919]LogBlueprint: Error: [Compiler TopDownController] Could not find a function named "MoveToHitLocation" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Move to Hit Location
+[2020.10.03-18.57.56:979][919]LogBlueprint: Error: [Compiler TopDownController] Could not find a function named "MoveToHitLocation" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Move to Hit Location
+[2020.10.03-18.57.57:016][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.03-18.57.57:042][919]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.03-18.58.08:887][622]BlueprintLog: New page: Compile TopDownController
+[2020.10.03-18.58.08:927][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.10.03-18.58.10:469][709]BlueprintLog: New page: Compile TopDownController
+[2020.10.03-18.58.10:506][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.10.03-18.58.11:493][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/TopDownController" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownController.uasset" SILENT=true
+[2020.10.03-18.58.11:518][764]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownControllerE1AED2294DE54D9236CD8C990D2598E7.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownController.uasset'
+[2020.10.03-18.58.11:533][764]AssetCheck: New page: Asset Save: TopDownController
+[2020.10.03-18.58.11:533][764]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/TopDownController.TopDownController
+[2020.10.03-18.58.17:805][966]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.03-18.58.17:805][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.03-18.58.51:199][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.03-18.58.51:206][936]LogMetaData: Removing '/Game/RTS/Blueprints/Controller.Controller_C' ref from Metadata '/Game/RTS/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.58.51:206][936]LogMetaData: Removing '/Game/RTS/Blueprints/Controller.SKEL_Controller_C' ref from Metadata '/Game/RTS/Blueprints/TopDownController.PackageMetaData'
+[2020.10.03-18.58.51:242][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/Controller" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/Controller.uasset" SILENT=true
+[2020.10.03-18.58.51:262][936]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/Controller65972CA64168FE76400C629C4074030B.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/Controller.uasset'
+[2020.10.03-18.58.51:548][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.10.03-18.58.51:580][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.10.03-18.58.51:600][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.03-18.58.51:625][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/TopDownGameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.10.03-18.58.51:646][936]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownGameMode06D5A1C4469E57218AFC5FA75CA1B577.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownGameMode.uasset'
+[2020.10.03-18.58.51:715][936]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.58.51:715][936]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/Controller.Controller
+[2020.10.03-18.58.51:715][936]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.10.03-18.59.12:145][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.03-18.59.12:149][120]LogMetaData: Removing '/Game/RTS/Blueprints/GameMode.GameMode_C' ref from Metadata '/Game/RTS/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.10.03-18.59.12:149][120]LogMetaData: Removing '/Game/RTS/Blueprints/GameMode.SKEL_GameMode_C' ref from Metadata '/Game/RTS/Blueprints/TopDownGameMode.PackageMetaData'
+[2020.10.03-18.59.12:203][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/GameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/GameMode.uasset" SILENT=true
+[2020.10.03-18.59.12:217][120]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/GameModeD91302514D6163C5C4C1A1BB9605FFC4.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/GameMode.uasset'
+[2020.10.03-18.59.12:221][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/TopDownGameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.10.03-18.59.12:233][120]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/TopDownGameModeF768836B4A7D337CAF108594CCEC1B2F.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/TopDownGameMode.uasset'
+[2020.10.03-18.59.12:300][120]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-18.59.12:300][120]LogContentValidation: Display: Validating Blueprint /Game/RTS/Blueprints/GameMode.GameMode
+[2020.10.03-18.59.12:300][120]LogContentValidation: Display: Validating ObjectRedirector /Game/RTS/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.10.03-18.59.12:300][120]LogContentValidation: Display: Validating ObjectRedirector /Game/RTS/Blueprints/TopDownGameMode.TopDownGameMode_C
+[2020.10.03-18.59.52:275][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RTS/Blueprints/GameMode.GameMode
+[2020.10.03-18.59.54:512][595]LogSlate: Window 'GameMode' being destroyed
+[2020.10.03-18.59.55:872][672]LogSlate: Window 'GameMode' being destroyed
+[2020.10.03-19.00.48:055][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.00.48:079][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.10.03-19.00.48:193][212]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map7AC95BD840A01DC59186B48D187C3DCE.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.00.48:223][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.00.48:384][212]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltData28EFAF5C46651374CB3FEAB8F2A4C7D5.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.00.48:405][212]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.00.48:405][212]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.00.48:405][212]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.01.06:006][535]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.03-19.01.13:314][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.01.13:340][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.10.03-19.01.13:442][961]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map17570D0E42C94BE582B5B5B76D127581.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.01.13:475][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.01.13:622][961]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltDataA185EBEB411094785E1D2CA2B20981C3.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.01.13:642][961]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.01.13:642][961]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.01.13:642][961]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.01.16:829][ 92]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.03-19.01.26:371][ 92]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.03-19.01.33:690][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.01.33:718][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.10.03-19.01.33:826][518]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map25757BF3443FE12932C0DEB6AB3D4366.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.01.33:858][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.01.34:014][518]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltDataE11FA36548E3F9BAD092B68A57E5AF8C.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.01.34:036][518]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.01.34:036][518]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.01.34:036][518]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.02.16:725][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameMode.GameMode_C' ref from Metadata '/Game/RTS/Blueprints/GameMode.PackageMetaData'
+[2020.10.03-19.02.16:725][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameMode.SKEL_GameMode_C' ref from Metadata '/Game/RTS/Blueprints/GameMode.PackageMetaData'
+[2020.10.03-19.02.16:725][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameMode.SKEL_GameMode_C:UserConstructionScript' ref from Metadata '/Game/RTS/Blueprints/GameMode.PackageMetaData'
+[2020.10.03-19.02.16:735][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameState.GameState:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/RTS/Blueprints/GameState.PackageMetaData'
+[2020.10.03-19.02.16:735][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameState.SKEL_GameState_C:UserConstructionScript' ref from Metadata '/Game/RTS/Blueprints/GameState.PackageMetaData'
+[2020.10.03-19.02.16:735][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameState.SKEL_GameState_C' ref from Metadata '/Game/RTS/Blueprints/GameState.PackageMetaData'
+[2020.10.03-19.02.16:735][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameState.GameState_C' ref from Metadata '/Game/RTS/Blueprints/GameState.PackageMetaData'
+[2020.10.03-19.02.16:735][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameState.GameState:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RTS/Blueprints/GameState.PackageMetaData'
+[2020.10.03-19.02.16:735][ 22]LogMetaData: Removing '/Game/RTS/GameBP/GameState.GameState:EventGraph.K2Node_Event_1' ref from Metadata '/Game/RTS/Blueprints/GameState.PackageMetaData'
+[2020.10.03-19.02.16:740][ 22]LogMetaData: Removing '/Game/RTS/GameBP/PlayerState.PlayerState:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/RTS/Blueprints/PlayerState.PackageMetaData'
+[2020.10.03-19.02.16:740][ 22]LogMetaData: Removing '/Game/RTS/GameBP/PlayerState.SKEL_PlayerState_C:UserConstructionScript' ref from Metadata '/Game/RTS/Blueprints/PlayerState.PackageMetaData'
+[2020.10.03-19.02.16:740][ 22]LogMetaData: Removing '/Game/RTS/GameBP/PlayerState.SKEL_PlayerState_C' ref from Metadata '/Game/RTS/Blueprints/PlayerState.PackageMetaData'
+[2020.10.03-19.02.16:740][ 22]LogMetaData: Removing '/Game/RTS/GameBP/PlayerState.PlayerState_C' ref from Metadata '/Game/RTS/Blueprints/PlayerState.PackageMetaData'
+[2020.10.03-19.02.16:740][ 22]LogMetaData: Removing '/Game/RTS/GameBP/PlayerState.PlayerState:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RTS/Blueprints/PlayerState.PackageMetaData'
+[2020.10.03-19.02.16:740][ 22]LogMetaData: Removing '/Game/RTS/GameBP/PlayerState.PlayerState:EventGraph.K2Node_Event_1' ref from Metadata '/Game/RTS/Blueprints/PlayerState.PackageMetaData'
+[2020.10.03-19.02.16:775][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/GameBP/GameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameMode.uasset" SILENT=true
+[2020.10.03-19.02.16:790][ 22]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/GameModeE6151ED34D665D532669319DBE9F216F.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameMode.uasset'
+[2020.10.03-19.02.16:793][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Blueprints/GameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/GameMode.uasset" SILENT=true
+[2020.10.03-19.02.16:810][ 22]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/GameModeBE2057F0454A9AD986A48F849F5ADCE0.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Blueprints/GameMode.uasset'
+[2020.10.03-19.02.16:813][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/GameBP/GameState" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameState.uasset" SILENT=true
+[2020.10.03-19.02.16:825][ 22]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/GameState0FD62659475D2027F0F7978D3AC76DE1.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameState.uasset'
+[2020.10.03-19.02.16:828][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/GameBP/PlayerState" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/PlayerState.uasset" SILENT=true
+[2020.10.03-19.02.16:842][ 22]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/PlayerState97B37AB340144355ED52F9AADC8971C4.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/PlayerState.uasset'
+[2020.10.03-19.02.17:145][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.10.03-19.02.17:167][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.10.03-19.02.17:199][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.03-19.02.17:221][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.03-19.02.17:297][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.02.17:297][ 22]LogContentValidation: Display: Validating Blueprint /Game/RTS/GameBP/GameMode.GameMode
+[2020.10.03-19.02.17:297][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/RTS/Blueprints/GameMode.GameMode
+[2020.10.03-19.02.17:297][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/RTS/Blueprints/GameMode.Default__GameMode_C
+[2020.10.03-19.02.17:297][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/RTS/Blueprints/GameMode.GameMode_C
+[2020.10.03-19.02.17:297][ 22]LogContentValidation: Display: Validating Blueprint /Game/RTS/GameBP/GameState.GameState
+[2020.10.03-19.02.17:297][ 22]LogContentValidation: Display: Validating Blueprint /Game/RTS/GameBP/PlayerState.PlayerState
+[2020.10.03-19.02.18:575][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.02.18:602][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.03-19.02.18:704][ 95]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map8BE341D44B54E3ECE05B599F3BE9D407.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.02.18:735][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.02.18:882][ 95]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltDataB9071B2647D07E463EB1BA8FA1AEE417.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.02.19:003][ 95]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.02.19:003][ 95]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.02.19:003][ 95]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.02.27:095][398]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.03-19.03.09:655][435]BlueprintLog: New page: Compile GameMode
+[2020.10.03-19.03.09:690][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.10.03-19.03.10:660][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/GameBP/GameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameMode.uasset" SILENT=true
+[2020.10.03-19.03.10:673][490]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/GameMode56A4D43346CEC030C914209EA94AC0F6.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameMode.uasset'
+[2020.10.03-19.03.10:692][490]AssetCheck: New page: Asset Save: GameMode
+[2020.10.03-19.03.10:692][490]LogContentValidation: Display: Validating Blueprint /Game/RTS/GameBP/GameMode.GameMode
+[2020.10.03-19.03.14:558][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/GameBP/GameMode" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameMode.uasset" SILENT=true
+[2020.10.03-19.03.14:572][717]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/GameMode2C6F3C0143F610EE00FAD3AD481F774C.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/GameBP/GameMode.uasset'
+[2020.10.03-19.03.14:588][717]AssetCheck: New page: Asset Save: GameMode
+[2020.10.03-19.03.14:588][717]LogContentValidation: Display: Validating Blueprint /Game/RTS/GameBP/GameMode.GameMode
+[2020.10.03-19.03.15:413][762]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.03-19.03.15:413][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.03-19.05.11:666][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.05.11:752][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.10.03-19.05.11:850][265]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map9700030B47E449FB2FBD44972F95BFE8.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.05.11:882][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.05.12:025][265]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltData9B83B7C346C61153BD2B5183C2BE613E.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.05.12:127][265]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.05.12:128][265]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.05.12:128][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.05.23:777][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.05.23:827][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.03-19.05.23:927][331]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map28740A5841FC0017EEA908928F6607DE.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.05.23:961][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.05.24:107][331]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltDataF214442C4D9A2370451F1591FBD04529.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.05.24:129][331]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.05.24:129][331]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.05.24:129][331]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.05.25:108][388]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.03-19.05.25:112][388]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.03-19.05.25:979][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.03-19.05.26:000][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.10.03-19.05.26:097][433]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_MapCC3AC4A549D2BC5454385882190E2C09.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map.umap'
+[2020.10.03-19.05.26:131][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTS/Maps/RTS_Test_Map_BuiltData" FILE="C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset" SILENT=true
+[2020.10.03-19.05.26:284][433]LogSavePackage: Moving 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Saved/RTS_Test_Map_BuiltDataC2DD26D9459D1CDD3007B28952DD848B.tmp' to 'C:/Users/Thomas/Documents/GitHub/GVSCVRProject/Project/Content/RTS/Maps/RTS_Test_Map_BuiltData.uasset'
+[2020.10.03-19.05.26:304][433]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.03-19.05.26:304][433]LogContentValidation: Display: Validating World /Game/RTS/Maps/RTS_Test_Map.RTS_Test_Map
+[2020.10.03-19.05.26:304][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/RTS/Maps/RTS_Test_Map_BuiltData.RTS_Test_Map_BuiltData
+[2020.10.03-19.14.23:991][333]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.03-19.15.35:127][ 26]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.03-19.15.56:741][307]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.10.03-19.15.58:581][415]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.16.29:848][811]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.16.42:461][214]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.16.46:185][437]Cmd: SELECT NONE
+[2020.10.03-19.16.47:835][536]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.03-19.16.48:361][566]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.03-19.16.48:785][591]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.17.09:186][699]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.17.13:008][922]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.03-19.17.17:699][202]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.03-19.17.18:906][274]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.17.22:731][502]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.03-19.17.34:233][615]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2020.10.03-19.18.16:503][558]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.10.03-19.18.16:983][559]LogRHI: Error: Present Fail Count 1
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.16:983][559]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.16:984][559]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:690][574]LogRHI: Error: Present Fail Count 2
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:690][574]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:691][574]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:742][577]LogRHI: Error: Present Fail Count 3
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:742][577]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:743][577]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:743][577]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:743][577]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:743][577]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:791][580]LogRHI: Error: Present Fail Count 4
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:791][580]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:841][583]LogRHI: Error: Present Fail Count 5
+[2020.10.03-19.18.21:841][583]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:841][583]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:841][583]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:842][583]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:890][586]LogRHI: Error: Present Fail Count 6
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:890][586]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:942][589]LogRHI: Error: Present Fail Count 7
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:942][589]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:943][589]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.21:993][592]LogRHI: Error: Present Fail Count 8
+[2020.10.03-19.18.21:993][592]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.21:993][592]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.21:993][592]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.21:993][592]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.21:994][592]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.22:044][595]LogRHI: Error: Present Fail Count 9
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.22:045][595]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.22:092][598]LogRHI: Error: Present Fail Count 10
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.22:092][598]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.22:136][601]LogRHI: Error: Present Fail Count 11
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SyncInterval 0
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000220CDA
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.03-19.18.22:137][601]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.03-19.18.22:137][601]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:406 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.10.03-19.18.22:137][601]LogD3D11RHI: [Aftermath] GDynamicRHI=000001CFB5F000C0, GDX11NVAfterMathEnabled=1, Result=0x00000001, bDeviceActive=1
+[2020.10.03-19.18.22:137][601]LogWindows: Windows GetLastError: The operation completed successfully. (0)
