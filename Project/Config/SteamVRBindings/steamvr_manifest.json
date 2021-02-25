@@ -152,6 +152,14 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/ZoomIn",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ZoomOut",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MoveForward axis",
 			"type": "vector1"
 		},
@@ -413,6 +421,8 @@
 			"/actions/main/out/vibrateright": "Haptic (Right)",
 			"/actions/main/in/open_console": "Open Console",
 			"/actions/main/in/ResetVR": "ResetVR",
+			"/actions/main/in/ZoomIn": "ZoomIn",
+			"/actions/main/in/ZoomOut": "ZoomOut",
 			"/actions/main/in/MoveForward axis": "MoveForward",
 			"/actions/main/in/MoveRight axis": "MoveRight",
 			"/actions/main/in/TurnRate axis": "TurnRate",
