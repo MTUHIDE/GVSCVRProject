@@ -46,19 +46,19 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+Project/Binaries/*
+Project/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+Project/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!Project/Build/*/
+Project/Build/*/**
+!Project/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+!Project/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
@@ -69,10 +69,11 @@ Project/Saved/*
 Project/Saved/Crashes/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+Project/Intermediate/*
+Project/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+Project/DerivedDataCache/*
+
 Project/Intermediate/CachedAssetRegistry.bin
 Project/Saved/Config/Windows/Engine.ini
